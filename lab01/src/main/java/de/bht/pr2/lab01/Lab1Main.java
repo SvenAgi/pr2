@@ -10,7 +10,7 @@ public class Lab1Main {
 
   public static void main(String[] args) {
     // Daten für Studierenden als Strings
-    List<String> data = new ArrayList<String>();
+    List<String> data = new ArrayList<String>(); // keine Ahnung, was hier passiert.
     data.add("Anna Alt,70001,Medieninformatik,312");
     data.add("Bob Berg,70002,Technische Informatik,312");
     data.add("Carla Castor,70003,Druck- und Medientechnik,312");
